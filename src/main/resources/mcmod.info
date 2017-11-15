@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wmts",
+  "name": "What Made This Chunk?",
+  "description": "The answer may surprise you.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JamiesWhiteShirt"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
